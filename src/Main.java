@@ -9,6 +9,7 @@ public class Main {
             System.out.println("В том числе начислено бонусов:" + t + "рублей");
         } else {
             System.out.println("На вашем счете:" + (x + y) + "рублей");
+            System.out.println("В том числе начислено бонусов:" + 0 + "рублей");
         }
 
 
